@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c0431fb4-e634-46b2-a46a-0f79497c33c2",
+    "username": "admin",
+    "hash": "c97884a2b43c21773a7080eeade950a1b44fadc605614241cdb24a8e251ba55b",
+    "salt": "50d487bb689e48b698fa2e881e6a115e",
+    "role": "admin",
+    "email": "admin@cyberdefender.local",
+    "created": "2026-06-16T00:50:19.443951",
+    "active": true
+  },
+  {
+    "id": "02747bf8-8819-49b6-8ac4-ff8fe279ea9c",
+    "username": "analyst",
+    "hash": "364cc5e892aae82091981338291671c948647b77ba22d8cabeda9b74709042f1",
+    "salt": "c03ef34c93c74fa385a009b86d908f84",
+    "role": "analyst",
+    "email": "analyst@cyberdefender.local",
+    "created": "2026-06-16T00:50:19.600640",
+    "active": true
+  },
+  {
+    "id": "d5974d7b-440b-467a-a7de-03daae01932e",
+    "username": "viewer",
+    "hash": "3bb79e0bc5d0ccf4da7e49c2c48e8facfa34290cc8c88f9394b38aab4d1ddefa",
+    "salt": "72833c4c614d475e8898413825783022",
+    "role": "viewer",
+    "email": "viewer@cyberdefender.local",
+    "created": "2026-06-16T00:50:19.757797",
+    "active": true
+  }
+]
